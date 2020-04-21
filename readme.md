@@ -17,11 +17,11 @@
 !["目录"](./image/main.png)
 
 !["基础"](./image/base.png)
-!["基础"](./image/layout.png)
-!["基础"](./image/skin.png)
-!["基础"](./image/advance.png)
-!["基础"](./image/dropdown.png)
-!["基础"](./image/tool.png)
-!["基础"](./image/scope.png)
-!["基础"](./image/inspector.png)
+!["布局"](./image/layout.png)
+!["皮肤"](./image/skin.png)
+!["高级"](./image/advance.png)
+!["下拉框"](./image/dropdown.png)
+!["工具栏"](./image/tool.png)
+!["scope"](./image/scope.png)
+!["inspector"](./image/inspector.png)
 
